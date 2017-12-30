@@ -1,9 +1,5 @@
-.App {
-  text-align: center;
-}
-
 .App-logo {
-  animation: App-logo-spin infinite 20s linear;
+  /* animation: App-logo-spin infinite 20s linear; */
   height: 80px;
 }
 
@@ -12,6 +8,7 @@
   height: 150px;
   padding: 20px;
   color: white;
+  text-align: center;
 }
 
 .App-title {
@@ -22,7 +19,19 @@
   font-size: large;
 }
 
-@keyframes App-logo-spin {
+/* .meetup__list-item {
+  display: block;
+  list-style: none;
+  margin: 5px 20px;
+  padding: 10px;
+  border: 2px grey solid;
+}
+
+.meetup__list-item::hover {
+  border-color: black;
+} */
+
+/* @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
-}
+} */
